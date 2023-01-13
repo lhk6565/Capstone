@@ -38,4 +38,4 @@
 
 ## 문의
 코드 및 발표자료에 대해 궁금한 점이 있으실 경우 lhk6565@naver.com으로 문의해주시면 답변드리겠습니다.:blush:<br>
-SDV(Stochastic Dissimilarity Vector) 알고리즘 원리는 김상기, 김용민, 강지훈, ["확률적 비유사성 벡터를 활용한 변수선택기법"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10538658), 신뢰성응용연구, Vol.21, No1, pp.61-68, Mar.2021 (KCI)에 자세히 나와있으니 참고바랍니다.ㅁㄴㅇ
+SDV(Stochastic Dissimilarity Vector) 알고리즘 원리는 김상기, 김용민, 강지훈, ["확률적 비유사성 벡터를 활용한 변수선택기법"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10538658), 신뢰성응용연구, Vol.21, No1, pp.61-68, Mar.2021 (KCI)에 자세히 나와있으니 참고바랍니다.
