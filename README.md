@@ -4,9 +4,7 @@
     <img src='Images/T-square grafana.png' width='750' height='450'>
 </p>
 
-<p align='center'>
-본 작품은 ![한국공학대학교 경영학부](https://www.tukorea.ac.kr/biz/index.do) 2022 Capstone Design 졸업 작품입니다.
-</p>
+![한국공학대학교 경영학부](https://www.tukorea.ac.kr/biz/index.do)의 2022 Capstone Design 졸업 작품입니다.
 
 ## 작품 소개
 - 이상 감지 모델(Anomaly Dectection Model)은 흔히 공정 단계에서 생산되는 데이터를 정상 혹은 이상으로 판단하는 역할을 한다. 그러나 불필요한 입력 변수가 존재하게 되면 모델의 성능과 정확도에 부정적인 영향을 미치므로 변수선택법을 적용하여 유의미한 변수들 만으로 모델을 구축하고 성능과 정확도를 높이고자 하였습니다.
