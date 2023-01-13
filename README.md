@@ -22,13 +22,13 @@
 ## SDV Algorithm 작동 원리
 - SDV의 작동원리는 다음 사진과 같습니다.
 <p align='center'>
-    <img src='...\SDV.png' width='500' height='350'>
+    <img src='Images/SDV.png' width='500' height='350'>
 </p>
 
 ## FDR과 SDV Selection의 성능 비교
 - 디스플레이 공정 데이터와 코로나 확진 데이터의 FDR과 SDV Selection을 적용한 이상감지 모델의 Alpha error, Beta error, Accuracy는 다음과 같습니다.
 <p align='center'>
-    <img src='Result.png' width='700' height='350'>
+    <img src='Images/Result.png' width='700' height='350'>
 </p>
 
 ## 기대효과 및 시장성
