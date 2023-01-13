@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-본 작품은 [한국공학대학교 경영학부](https://www.tukorea.ac.kr/biz/index.do) 2022 Capstone Design 졸업 작품입니다.
+본 작품은 ![한국공학대학교 경영학부](https://www.tukorea.ac.kr/biz/index.do) 2022 Capstone Design 졸업 작품입니다.
 </p>
 
 ## 작품 소개
