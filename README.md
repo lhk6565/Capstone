@@ -1,7 +1,7 @@
 # Capstone
 
 <p align='center'>
-    <img src='.../T-square grafana.png' width='750' height='450'>
+    <img src='.../Images/T-square grafana.png' width='750' height='450'>
 </p>
 
 <p align='center'>
@@ -22,7 +22,7 @@
 ## SDV Algorithm 작동 원리
 - SDV의 작동원리는 다음 사진과 같습니다.
 <p align='center'>
-    <img src='SDV.png' width='500' height='350'>
+    <img src='...\SDV.png' width='500' height='350'>
 </p>
 
 ## FDR과 SDV Selection의 성능 비교
