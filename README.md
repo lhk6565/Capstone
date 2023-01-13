@@ -1,7 +1,7 @@
 # Capstone
 
 <p align='center'>
-    <img src='T-square grafana.png' width='750' height='450'>
+    <img src='.../T-square grafana.png' width='750' height='450'>
 </p>
 
 <p align='center'>
